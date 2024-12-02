@@ -1,7 +1,9 @@
-# PF_Programming_Fundamentals_Practice
+# Programming Fundamentals (PF) Practice
 Practice and Solutions of all propblems
 
+![Java display Image](Source/PFB.jpg)
 
+<br>
 
 Feel free to contribute to this repository by adding code samples, tutorials, or helpful resources related to Programming Fundamentals. Create pull requests, report issues, and collaborate with the community!
 
