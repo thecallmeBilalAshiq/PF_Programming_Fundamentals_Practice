@@ -2,6 +2,9 @@
 //                 Colors in C++ console                          //
 // ============================================================== //
 
+// include this library   =====>>>>>>>   #include <windows.h> 
+// wrrit this line        =====>>>>>>>   system("color 1B");
+
 
 #include <iostream>
 #include <windows.h> 
