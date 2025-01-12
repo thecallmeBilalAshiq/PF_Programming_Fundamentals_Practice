@@ -5,7 +5,6 @@ Practice and Solutions of all propblems
 
 <br>
 
-
 Feel free to contribute to this repository by adding code samples, tutorials, or helpful resources related to Programming Fundamentals. Create pull requests, report issues, and collaborate with the community!
 
 Happy coding! 🐍🚀
