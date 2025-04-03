@@ -1,4 +1,4 @@
-# Programming Fundamentals (PF) Practice
+# Programming Fundamentals (PF) Practice for juniors
 Practice and Solutions of all propblems
 
 ![Java display Image](Source/PFB.jpg)
